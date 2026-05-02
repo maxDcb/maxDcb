@@ -14,7 +14,8 @@ My public work is intended for authorized research, education, and controlled la
 - Application security and secure code review
 - C2 architecture and operator/tooling workflows
 - Kubernetes/OpenShift security modeling
-- Security automation and technical research
+- Agentic AI for security tooling and research workflows
+- LLM-assisted development and security automation
 
 ## Selected projects
 
