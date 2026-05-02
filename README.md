@@ -21,7 +21,7 @@ My public work is intended for authorized research, education, and controlled la
 - **[DreamWalkers](https://github.com/maxDcb/DreamWalkers)** — lab research around Windows loader internals, PE loading, stack artifacts, and execution tradeoffs.
 - **[Exploration C2](https://github.com/maxDcb/C2TeamServer)** — educational C2 architecture project for studying teamserver, client, listener, and agent design.
 - **[Technical blog](https://maxdcb.github.io/)** — engineering notes and security research.
-- - **[Kubernetes/OpenShift security research](https://maxdcb.github.io/OpenShiftGrapher/)** — graph-based approaches to understanding RBAC, SCC, service accounts, routes, and attack paths.
+- **[Kubernetes/OpenShift security research](https://maxdcb.github.io/OpenShiftGrapher/)** — graph-based approaches to understanding RBAC, SCC, service accounts, routes, and attack paths.
 
 ## Public research boundaries
 
